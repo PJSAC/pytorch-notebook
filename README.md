@@ -1,3 +1,4 @@
+此文件已配置PAI平台自动构建。[镜像仓库](https://cr.console.aliyun.com/repository/cn-beijing/cri-p1o2kibdhrh5yqnf/saclab/pytorch-notebook)
 # Jupyter Notebook with Pytorch
 
 [![Create and publish a Docker iamge](https://github.com/Tverous/pytorch-notebook/actions/workflows/docker-image.yml/badge.svg)](https://github.com/Tverous/pytorch-notebook/actions/workflows/docker-image.yml)
